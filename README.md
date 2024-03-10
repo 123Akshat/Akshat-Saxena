@@ -2,6 +2,9 @@
 <h1 align="center">Hi 👋, I'm Akshat Saxena</h1>
 <h3 align="center">I am in Computer Science and Engineering from Vellore Institute of Technology and I am a passionate learner.😎</h3>
 
+<img align="right" alt="coding" width="400" src="https://github.com/123Akshat/Akshat-Saxena/assets/103346687/fe416f60-4b1e-4458-a541-5560f7704727">
+
+
 - 🌱 I’m currently learning **JavaScript and React.js**
 
 - 💬 Ask me about **React, JavaScript and HTML/CSS**
