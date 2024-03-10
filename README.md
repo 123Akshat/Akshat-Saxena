@@ -1,4 +1,3 @@
-# Akshat-Saxena
 <h1 align="center">Hi 👋, I'm Akshat Saxena</h1>
 <h3 align="center">I am in Computer Science and Engineering from Vellore Institute of Technology and I am a passionate learner.😎</h3>
 
